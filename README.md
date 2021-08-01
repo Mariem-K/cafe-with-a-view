@@ -1,1 +1,3 @@
-# cafe-with-a-view
+# Entraînement Vue.JS
+
+Projet en VueJS
